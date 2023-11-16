@@ -1,2 +1,3 @@
-# Consulta_S6
-Programación Funcional y Reactiva
+# Programación Funcional y Reactiva
+Consulta_S6
+
